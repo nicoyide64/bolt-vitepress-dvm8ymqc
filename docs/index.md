@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: Foro Español
+  text: Generador de sitios estáticos impulsado por Vite y Vue.
+  tagline: Simple, poderoso y eficiente. Conoce el moderno SSG que siempre has querido.
   actions:
     - theme: brand
-      text: Get Started
+      text: Comenzar
       link: /example
     - theme: alt
       text: View on GitHub

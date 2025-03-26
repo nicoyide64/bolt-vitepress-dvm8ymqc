@@ -25,7 +25,7 @@ export default function Navbar() {
               to="/create-post"
               className="bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-md text-sm font-medium"
             >
-              Crear Post
+              Crear Publicación
             </Link>
             <Link
               to="/login"
