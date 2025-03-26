@@ -53,7 +53,7 @@ export default function Home() {
   if (loading) {
     return (
       <div className="flex justify-center items-center h-64">
-        <div className="text-gray-600">Cargando posts...</div>
+        <div className="text-gray-600">Cargando publicaciones...</div>
       </div>
     );
   }

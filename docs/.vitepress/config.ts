@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  lang: 'es-ES',
+  title: 'Foro Español',
+  description: 'Generador de sitios estáticos impulsado por Vite y Vue.',
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: 'Ejemplo', link: '/example' },
 
       // {
       //   text: 'Dropdown Menu',
@@ -26,7 +26,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: 'Ejemplo', link: '/example' },
           // ...
         ],
       },
